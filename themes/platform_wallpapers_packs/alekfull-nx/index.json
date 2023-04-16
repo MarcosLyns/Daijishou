@@ -125,6 +125,10 @@
       "filename": "intellivision.jpg"
     },
     {
+      "matchPlatformShortname": "kof",
+      "filename": "kof.jpg"
+    },
+    {
       "matchPlatformShortname": "mame",
       "filename": "mame.jpg"
     },
